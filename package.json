@@ -1,6 +1,6 @@
 {
   "name": "gulp-dnx",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Gulp plugin for ASP.NET vNext",
   "main": "index.js",
   "repository": {
@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/tugberkugurlu/gulp-dnx",
   "dependencies": {
-    "gulp-shell": "luisrudge/gulp-shell",
-    "gulp-util": "^3.0.5",
-    "lodash": "^3.9.3"
+    "gulp-shell": "0.5.2",
+    "gulp-util": "3.0.5",
+    "lodash": "3.9.3"
   }
 }
